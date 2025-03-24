@@ -1,2 +1,0 @@
-# MangaCollectionBE
-Manga collection backend
